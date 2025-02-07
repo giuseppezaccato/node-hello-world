@@ -3,7 +3,7 @@ console.log("Hello Boolean");
 
 
 //* manda da terminale (ctrl + ò):
-//??   node index.js         || npm run start  ==>  lettura in asincrona!
+//??   node index.js         || npm run start  ==>  lettura asincrona!
 //??   node --watch index.js || npm run watch  ==>  lettura sincrona
 
 //!-------------------BONUS-------------------------------------------------------------
